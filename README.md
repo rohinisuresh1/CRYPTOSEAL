@@ -6,7 +6,7 @@ RSA is used for secure key exchange, while AES is used for fast and efficient da
 
 The application provides a user-friendly interface using Tkinter, where users can easily encrypt and decrypt files or messages. Overall, the project demonstrates how hybrid encryption can be effectively used to protect sensitive data from unauthorized access.
 
-visual explanation of CryptoSeal
+Visual Explanation of CryptoSeal
 
 <img width="1440" height="920" alt="image" src="https://github.com/user-attachments/assets/f769a1d4-96a0-4d35-a0a4-bd71ed7d0fba" />
 
